@@ -1,5 +1,5 @@
-RangRivaaz — Upgraded Full MVP (v2)
-===================================
+RangRivaaz 
+==========
 
 This package contains:
 - client/  (React + Vite + Tailwind front-end with images, tabs, cart, checkout demo)
