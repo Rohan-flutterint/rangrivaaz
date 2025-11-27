@@ -1,0 +1,662 @@
+[
+  {
+    "id": "d001",
+    "type": "decor",
+    "name": "Saffron Celebrations",
+    "category": "decor",
+    "state": "Maharashtra",
+    "price_from": 24000,
+    "price_to": 108000,
+    "rating": 4.2,
+    "images": [
+      "/images/decor01.svg"
+    ],
+    "short_description": "Premium decor packages including florals, lighting and thematic sets."
+  },
+  {
+    "id": "d002",
+    "type": "decor",
+    "name": "Golden Petals",
+    "category": "decor",
+    "state": "Delhi",
+    "price_from": 28000,
+    "price_to": 116000,
+    "rating": 4.5,
+    "images": [
+      "/images/decor02.svg"
+    ],
+    "short_description": "Premium decor packages including florals, lighting and thematic sets."
+  },
+  {
+    "id": "d003",
+    "type": "decor",
+    "name": "Marigold Studio",
+    "category": "decor",
+    "state": "Karnataka",
+    "price_from": 32000,
+    "price_to": 124000,
+    "rating": 4.8,
+    "images": [
+      "/images/decor03.svg"
+    ],
+    "short_description": "Premium decor packages including florals, lighting and thematic sets."
+  },
+  {
+    "id": "d004",
+    "type": "decor",
+    "name": "Silk & Strings",
+    "category": "decor",
+    "state": "Gujarat",
+    "price_from": 36000,
+    "price_to": 132000,
+    "rating": 4.0,
+    "images": [
+      "/images/decor04.svg"
+    ],
+    "short_description": "Premium decor packages including florals, lighting and thematic sets."
+  },
+  {
+    "id": "d005",
+    "type": "decor",
+    "name": "Festoon Co.",
+    "category": "decor",
+    "state": "Punjab",
+    "price_from": 40000,
+    "price_to": 140000,
+    "rating": 4.2,
+    "images": [
+      "/images/decor05.svg"
+    ],
+    "short_description": "Premium decor packages including florals, lighting and thematic sets."
+  },
+  {
+    "id": "d006",
+    "type": "decor",
+    "name": "Aangan Designs",
+    "category": "decor",
+    "state": "Tamil Nadu",
+    "price_from": 44000,
+    "price_to": 148000,
+    "rating": 4.5,
+    "images": [
+      "/images/decor06.svg"
+    ],
+    "short_description": "Premium decor packages including florals, lighting and thematic sets."
+  },
+  {
+    "id": "d007",
+    "type": "decor",
+    "name": "Mogra Events",
+    "category": "decor",
+    "state": "West Bengal",
+    "price_from": 48000,
+    "price_to": 156000,
+    "rating": 4.8,
+    "images": [
+      "/images/decor07.svg"
+    ],
+    "short_description": "Premium decor packages including florals, lighting and thematic sets."
+  },
+  {
+    "id": "d008",
+    "type": "decor",
+    "name": "Mandap Magic",
+    "category": "decor",
+    "state": "Uttar Pradesh",
+    "price_from": 52000,
+    "price_to": 164000,
+    "rating": 4.0,
+    "images": [
+      "/images/decor08.svg"
+    ],
+    "short_description": "Premium decor packages including florals, lighting and thematic sets."
+  },
+  {
+    "id": "d009",
+    "type": "decor",
+    "name": "Lotus Decor",
+    "category": "decor",
+    "state": "Rajasthan",
+    "price_from": 56000,
+    "price_to": 172000,
+    "rating": 4.2,
+    "images": [
+      "/images/decor09.svg"
+    ],
+    "short_description": "Premium decor packages including florals, lighting and thematic sets."
+  },
+  {
+    "id": "d010",
+    "type": "decor",
+    "name": "Rangoli Creations",
+    "category": "decor",
+    "state": "Goa",
+    "price_from": 60000,
+    "price_to": 180000,
+    "rating": 4.5,
+    "images": [
+      "/images/decor10.svg"
+    ],
+    "short_description": "Premium decor packages including florals, lighting and thematic sets."
+  },
+  {
+    "id": "d011",
+    "type": "decor",
+    "name": "Petal & Paper",
+    "category": "decor",
+    "state": "Kerala",
+    "price_from": 64000,
+    "price_to": 188000,
+    "rating": 4.8,
+    "images": [
+      "/images/decor11.svg"
+    ],
+    "short_description": "Premium decor packages including florals, lighting and thematic sets."
+  },
+  {
+    "id": "d012",
+    "type": "decor",
+    "name": "Vedic D\u00e9cor",
+    "category": "decor",
+    "state": "Himachal Pradesh",
+    "price_from": 68000,
+    "price_to": 196000,
+    "rating": 4.0,
+    "images": [
+      "/images/decor12.svg"
+    ],
+    "short_description": "Premium decor packages including florals, lighting and thematic sets."
+  },
+  {
+    "id": "a001",
+    "type": "artist",
+    "name": "Bollywood Beats Agency",
+    "category": "artist",
+    "state": "Delhi",
+    "price_from": 35000,
+    "price_to": 210000,
+    "rating": 4.2,
+    "images": [
+      "/images/artist01.svg"
+    ],
+    "short_description": "Live performance suitable for weddings, sangeet and corporate events."
+  },
+  {
+    "id": "a002",
+    "type": "artist",
+    "name": "Asha Sharma",
+    "category": "artist",
+    "state": "Maharashtra",
+    "price_from": 40000,
+    "price_to": 220000,
+    "rating": 4.4,
+    "images": [
+      "/images/artist02.svg"
+    ],
+    "short_description": "Live performance suitable for weddings, sangeet and corporate events."
+  },
+  {
+    "id": "a003",
+    "type": "artist",
+    "name": "Rohit D'Souza (DJ)",
+    "category": "artist",
+    "state": "Karnataka",
+    "price_from": 45000,
+    "price_to": 230000,
+    "rating": 4.6,
+    "images": [
+      "/images/artist03.svg"
+    ],
+    "short_description": "Live performance suitable for weddings, sangeet and corporate events."
+  },
+  {
+    "id": "a004",
+    "type": "artist",
+    "name": "Meera Kapoor (Classical)",
+    "category": "artist",
+    "state": "Maharashtra",
+    "price_from": 50000,
+    "price_to": 240000,
+    "rating": 4.8,
+    "images": [
+      "/images/artist04.svg"
+    ],
+    "short_description": "Live performance suitable for weddings, sangeet and corporate events."
+  },
+  {
+    "id": "a005",
+    "type": "artist",
+    "name": "Sufi Soul",
+    "category": "artist",
+    "state": "Uttar Pradesh",
+    "price_from": 55000,
+    "price_to": 250000,
+    "rating": 4.0,
+    "images": [
+      "/images/artist05.svg"
+    ],
+    "short_description": "Live performance suitable for weddings, sangeet and corporate events."
+  },
+  {
+    "id": "a006",
+    "type": "artist",
+    "name": "StageCraft Band",
+    "category": "artist",
+    "state": "Punjab",
+    "price_from": 60000,
+    "price_to": 260000,
+    "rating": 4.2,
+    "images": [
+      "/images/artist06.svg"
+    ],
+    "short_description": "Live performance suitable for weddings, sangeet and corporate events."
+  },
+  {
+    "id": "a007",
+    "type": "artist",
+    "name": "Nitin Arora (MC)",
+    "category": "artist",
+    "state": "Delhi",
+    "price_from": 65000,
+    "price_to": 270000,
+    "rating": 4.4,
+    "images": [
+      "/images/artist07.svg"
+    ],
+    "short_description": "Live performance suitable for weddings, sangeet and corporate events."
+  },
+  {
+    "id": "a008",
+    "type": "artist",
+    "name": "Rhythm Collective",
+    "category": "artist",
+    "state": "Gujarat",
+    "price_from": 70000,
+    "price_to": 280000,
+    "rating": 4.6,
+    "images": [
+      "/images/artist08.svg"
+    ],
+    "short_description": "Live performance suitable for weddings, sangeet and corporate events."
+  },
+  {
+    "id": "a009",
+    "type": "artist",
+    "name": "Arijit Cover Band",
+    "category": "artist",
+    "state": "West Bengal",
+    "price_from": 75000,
+    "price_to": 290000,
+    "rating": 4.8,
+    "images": [
+      "/images/artist09.svg"
+    ],
+    "short_description": "Live performance suitable for weddings, sangeet and corporate events."
+  },
+  {
+    "id": "a010",
+    "type": "artist",
+    "name": "Dazzle Troupe",
+    "category": "artist",
+    "state": "Tamil Nadu",
+    "price_from": 80000,
+    "price_to": 300000,
+    "rating": 4.0,
+    "images": [
+      "/images/artist10.svg"
+    ],
+    "short_description": "Live performance suitable for weddings, sangeet and corporate events."
+  },
+  {
+    "id": "a011",
+    "type": "artist",
+    "name": "Tabla Fusion",
+    "category": "artist",
+    "state": "Kerala",
+    "price_from": 85000,
+    "price_to": 310000,
+    "rating": 4.2,
+    "images": [
+      "/images/artist11.svg"
+    ],
+    "short_description": "Live performance suitable for weddings, sangeet and corporate events."
+  },
+  {
+    "id": "a012",
+    "type": "artist",
+    "name": "Cultural Ensemble",
+    "category": "artist",
+    "state": "Rajasthan",
+    "price_from": 90000,
+    "price_to": 320000,
+    "rating": 4.4,
+    "images": [
+      "/images/artist12.svg"
+    ],
+    "short_description": "Live performance suitable for weddings, sangeet and corporate events."
+  },
+  {
+    "id": "r001",
+    "type": "dress",
+    "name": "Anokhi Bridal Lehenga",
+    "category": "dress",
+    "state": "Gujarat",
+    "rental_price": 3000,
+    "buy_price": 70000,
+    "rating": 4.3,
+    "images": [
+      "/images/dress01.svg"
+    ],
+    "short_description": "Designer wear available on rent with pickup/drop options."
+  },
+  {
+    "id": "r002",
+    "type": "dress",
+    "name": "Groom Sherwani Royale",
+    "category": "dress",
+    "state": "Rajasthan",
+    "rental_price": 5000,
+    "buy_price": 90000,
+    "rating": 4.6,
+    "images": [
+      "/images/dress02.svg"
+    ],
+    "short_description": "Designer wear available on rent with pickup/drop options."
+  },
+  {
+    "id": "r003",
+    "type": "dress",
+    "name": "GlamRentals Lehenga",
+    "category": "dress",
+    "state": "Delhi",
+    "rental_price": 7000,
+    "buy_price": 110000,
+    "rating": 4.9,
+    "images": [
+      "/images/dress03.svg"
+    ],
+    "short_description": "Designer wear available on rent with pickup/drop options."
+  },
+  {
+    "id": "r004",
+    "type": "dress",
+    "name": "Heritage Saree Collection",
+    "category": "dress",
+    "state": "Karnataka",
+    "rental_price": 9000,
+    "buy_price": 130000,
+    "rating": 4.0,
+    "images": [
+      "/images/dress04.svg"
+    ],
+    "short_description": "Designer wear available on rent with pickup/drop options."
+  },
+  {
+    "id": "r005",
+    "type": "dress",
+    "name": "Designer Suit Hire",
+    "category": "dress",
+    "state": "Maharashtra",
+    "rental_price": 11000,
+    "buy_price": 150000,
+    "rating": 4.3,
+    "images": [
+      "/images/dress05.svg"
+    ],
+    "short_description": "Designer wear available on rent with pickup/drop options."
+  },
+  {
+    "id": "r006",
+    "type": "dress",
+    "name": "Kundan Jewellery Set",
+    "category": "dress",
+    "state": "Punjab",
+    "rental_price": 13000,
+    "buy_price": 170000,
+    "rating": 4.6,
+    "images": [
+      "/images/dress06.svg"
+    ],
+    "short_description": "Designer wear available on rent with pickup/drop options."
+  },
+  {
+    "id": "r007",
+    "type": "dress",
+    "name": "Zari Bridal Set",
+    "category": "dress",
+    "state": "Tamil Nadu",
+    "rental_price": 15000,
+    "buy_price": 190000,
+    "rating": 4.9,
+    "images": [
+      "/images/dress07.svg"
+    ],
+    "short_description": "Designer wear available on rent with pickup/drop options."
+  },
+  {
+    "id": "r008",
+    "type": "dress",
+    "name": "Bridal Blouse & Dupatta",
+    "category": "dress",
+    "state": "West Bengal",
+    "rental_price": 17000,
+    "buy_price": 210000,
+    "rating": 4.0,
+    "images": [
+      "/images/dress08.svg"
+    ],
+    "short_description": "Designer wear available on rent with pickup/drop options."
+  },
+  {
+    "id": "r009",
+    "type": "dress",
+    "name": "Regal Anarkali",
+    "category": "dress",
+    "state": "Uttar Pradesh",
+    "rental_price": 19000,
+    "buy_price": 230000,
+    "rating": 4.3,
+    "images": [
+      "/images/dress09.svg"
+    ],
+    "short_description": "Designer wear available on rent with pickup/drop options."
+  },
+  {
+    "id": "r010",
+    "type": "dress",
+    "name": "Embellished Gown",
+    "category": "dress",
+    "state": "Assam",
+    "rental_price": 21000,
+    "buy_price": 250000,
+    "rating": 4.6,
+    "images": [
+      "/images/dress10.svg"
+    ],
+    "short_description": "Designer wear available on rent with pickup/drop options."
+  },
+  {
+    "id": "r011",
+    "type": "dress",
+    "name": "Silk Saree Heritage",
+    "category": "dress",
+    "state": "Kerala",
+    "rental_price": 23000,
+    "buy_price": 270000,
+    "rating": 4.9,
+    "images": [
+      "/images/dress11.svg"
+    ],
+    "short_description": "Designer wear available on rent with pickup/drop options."
+  },
+  {
+    "id": "r012",
+    "type": "dress",
+    "name": "Party Lehenga",
+    "category": "dress",
+    "state": "Goa",
+    "rental_price": 25000,
+    "buy_price": 290000,
+    "rating": 4.0,
+    "images": [
+      "/images/dress12.svg"
+    ],
+    "short_description": "Designer wear available on rent with pickup/drop options."
+  },
+  {
+    "id": "g001",
+    "type": "gift",
+    "name": "Handcrafted Tea Box",
+    "category": "gift",
+    "state": "Assam",
+    "price": 399,
+    "rating": 4.3,
+    "images": [
+      "/images/gift01.svg"
+    ],
+    "short_description": "Thoughtful handcrafted return gift favored across ceremonies."
+  },
+  {
+    "id": "g002",
+    "type": "gift",
+    "name": "Mini Terracotta Planter",
+    "category": "gift",
+    "state": "Kerala",
+    "price": 599,
+    "rating": 4.6,
+    "images": [
+      "/images/gift02.svg"
+    ],
+    "short_description": "Thoughtful handcrafted return gift favored across ceremonies."
+  },
+  {
+    "id": "g003",
+    "type": "gift",
+    "name": "Spice Jar Set",
+    "category": "gift",
+    "state": "Tamil Nadu",
+    "price": 799,
+    "rating": 4.0,
+    "images": [
+      "/images/gift03.svg"
+    ],
+    "short_description": "Thoughtful handcrafted return gift favored across ceremonies."
+  },
+  {
+    "id": "g004",
+    "type": "gift",
+    "name": "Handloom Scarf",
+    "category": "gift",
+    "state": "Bihar",
+    "price": 999,
+    "rating": 4.3,
+    "images": [
+      "/images/gift04.svg"
+    ],
+    "short_description": "Thoughtful handcrafted return gift favored across ceremonies."
+  },
+  {
+    "id": "g005",
+    "type": "gift",
+    "name": "Personalized Mug",
+    "category": "gift",
+    "state": "Delhi",
+    "price": 1199,
+    "rating": 4.6,
+    "images": [
+      "/images/gift05.svg"
+    ],
+    "short_description": "Thoughtful handcrafted return gift favored across ceremonies."
+  },
+  {
+    "id": "g006",
+    "type": "gift",
+    "name": "Sweets Box (Assorted)",
+    "category": "gift",
+    "state": "Maharashtra",
+    "price": 1399,
+    "rating": 4.0,
+    "images": [
+      "/images/gift06.svg"
+    ],
+    "short_description": "Thoughtful handcrafted return gift favored across ceremonies."
+  },
+  {
+    "id": "g007",
+    "type": "gift",
+    "name": "Handmade Soap Set",
+    "category": "gift",
+    "state": "Uttarakhand",
+    "price": 1599,
+    "rating": 4.3,
+    "images": [
+      "/images/gift07.svg"
+    ],
+    "short_description": "Thoughtful handcrafted return gift favored across ceremonies."
+  },
+  {
+    "id": "g008",
+    "type": "gift",
+    "name": "Miniature Brass Lamp",
+    "category": "gift",
+    "state": "Rajasthan",
+    "price": 1799,
+    "rating": 4.6,
+    "images": [
+      "/images/gift08.svg"
+    ],
+    "short_description": "Thoughtful handcrafted return gift favored across ceremonies."
+  },
+  {
+    "id": "g009",
+    "type": "gift",
+    "name": "Incense & Holder",
+    "category": "gift",
+    "state": "Karnataka",
+    "price": 1999,
+    "rating": 4.0,
+    "images": [
+      "/images/gift09.svg"
+    ],
+    "short_description": "Thoughtful handcrafted return gift favored across ceremonies."
+  },
+  {
+    "id": "g010",
+    "type": "gift",
+    "name": "Artisanal Chocolate Pack",
+    "category": "gift",
+    "state": "Goa",
+    "price": 2199,
+    "rating": 4.3,
+    "images": [
+      "/images/gift10.svg"
+    ],
+    "short_description": "Thoughtful handcrafted return gift favored across ceremonies."
+  },
+  {
+    "id": "g011",
+    "type": "gift",
+    "name": "Seed Packet Gift",
+    "category": "gift",
+    "state": "Punjab",
+    "price": 2399,
+    "rating": 4.6,
+    "images": [
+      "/images/gift11.svg"
+    ],
+    "short_description": "Thoughtful handcrafted return gift favored across ceremonies."
+  },
+  {
+    "id": "g012",
+    "type": "gift",
+    "name": "Brass Keychain",
+    "category": "gift",
+    "state": "Haryana",
+    "price": 2599,
+    "rating": 4.0,
+    "images": [
+      "/images/gift12.svg"
+    ],
+    "short_description": "Thoughtful handcrafted return gift favored across ceremonies."
+  }
+]

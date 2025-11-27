@@ -1,0 +1,374 @@
+[
+  {
+    "id": "v001",
+    "type": "venue",
+    "name": "Royal Banquet",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "capacity": 300,
+    "price_per_day": 250000,
+    "rating": 4.4,
+    "images": [
+      "/images/venue01.svg"
+    ],
+    "tags": [
+      "weddings",
+      "traditional"
+    ],
+    "short_description": "Beautiful venue suitable for large scale ceremonies with modern amenities.",
+    "packages": [
+      {
+        "name": "Basic",
+        "price": 150000
+      },
+      {
+        "name": "Premium",
+        "price": 250000
+      }
+    ],
+    "availability": {
+      "2025": "open"
+    }
+  },
+  {
+    "id": "v002",
+    "type": "venue",
+    "name": "Grand Resort",
+    "state": "Goa",
+    "city": "Goa",
+    "capacity": 150,
+    "price_per_day": 180000,
+    "rating": 4.5,
+    "images": [
+      "/images/venue02.svg"
+    ],
+    "tags": [
+      "weddings",
+      "traditional"
+    ],
+    "short_description": "Beautiful venue suitable for large scale ceremonies with modern amenities.",
+    "packages": [
+      {
+        "name": "Basic",
+        "price": 120000
+      },
+      {
+        "name": "Premium",
+        "price": 180000
+      }
+    ],
+    "availability": {
+      "2025": "open"
+    }
+  },
+  {
+    "id": "v003",
+    "type": "venue",
+    "name": "Imperial Lawns",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "capacity": 500,
+    "price_per_day": 150000,
+    "rating": 4.7,
+    "images": [
+      "/images/venue03.svg"
+    ],
+    "tags": [
+      "weddings",
+      "destination"
+    ],
+    "short_description": "Beautiful venue suitable for large scale ceremonies with modern amenities.",
+    "packages": [
+      {
+        "name": "Basic",
+        "price": 100000
+      },
+      {
+        "name": "Premium",
+        "price": 150000
+      }
+    ],
+    "availability": {
+      "2025": "open"
+    }
+  },
+  {
+    "id": "v004",
+    "type": "venue",
+    "name": "Seaside Haveli",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "capacity": 350,
+    "price_per_day": 300000,
+    "rating": 4.8,
+    "images": [
+      "/images/venue04.svg"
+    ],
+    "tags": [
+      "weddings",
+      "traditional"
+    ],
+    "short_description": "Beautiful venue suitable for large scale ceremonies with modern amenities.",
+    "packages": [
+      {
+        "name": "Basic",
+        "price": 160000
+      },
+      {
+        "name": "Premium",
+        "price": 300000
+      }
+    ],
+    "availability": {
+      "2025": "open"
+    }
+  },
+  {
+    "id": "v005",
+    "type": "venue",
+    "name": "Gardenia Estate",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "capacity": 200,
+    "price_per_day": 200000,
+    "rating": 4.2,
+    "images": [
+      "/images/venue05.svg"
+    ],
+    "tags": [
+      "weddings",
+      "traditional"
+    ],
+    "short_description": "Beautiful venue suitable for large scale ceremonies with modern amenities.",
+    "packages": [
+      {
+        "name": "Basic",
+        "price": 130000
+      },
+      {
+        "name": "Premium",
+        "price": 220000
+      }
+    ],
+    "availability": {
+      "2025": "open"
+    }
+  },
+  {
+    "id": "v006",
+    "type": "venue",
+    "name": "Marigold Gardens",
+    "state": "Uttar Pradesh",
+    "city": "Lucknow",
+    "capacity": 180,
+    "price_per_day": 120000,
+    "rating": 4.4,
+    "images": [
+      "/images/venue06.svg"
+    ],
+    "tags": [
+      "weddings",
+      "destination"
+    ],
+    "short_description": "Beautiful venue suitable for large scale ceremonies with modern amenities.",
+    "packages": [
+      {
+        "name": "Basic",
+        "price": 80000
+      },
+      {
+        "name": "Premium",
+        "price": 140000
+      }
+    ],
+    "availability": {
+      "2025": "open"
+    }
+  },
+  {
+    "id": "v007",
+    "type": "venue",
+    "name": "Lotus Lawn",
+    "state": "Punjab",
+    "city": "Amritsar",
+    "capacity": 220,
+    "price_per_day": 90000,
+    "rating": 4.5,
+    "images": [
+      "/images/venue07.svg"
+    ],
+    "tags": [
+      "weddings",
+      "traditional"
+    ],
+    "short_description": "Beautiful venue suitable for large scale ceremonies with modern amenities.",
+    "packages": [
+      {
+        "name": "Basic",
+        "price": 70000
+      },
+      {
+        "name": "Premium",
+        "price": 120000
+      }
+    ],
+    "availability": {
+      "2025": "open"
+    }
+  },
+  {
+    "id": "v008",
+    "type": "venue",
+    "name": "Palace Court",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "capacity": 400,
+    "price_per_day": 160000,
+    "rating": 4.7,
+    "images": [
+      "/images/venue08.svg"
+    ],
+    "tags": [
+      "weddings",
+      "traditional"
+    ],
+    "short_description": "Beautiful venue suitable for large scale ceremonies with modern amenities.",
+    "packages": [
+      {
+        "name": "Basic",
+        "price": 110000
+      },
+      {
+        "name": "Premium",
+        "price": 170000
+      }
+    ],
+    "availability": {
+      "2025": "open"
+    }
+  },
+  {
+    "id": "v009",
+    "type": "venue",
+    "name": "Heritage Pavilion",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "capacity": 250,
+    "price_per_day": 140000,
+    "rating": 4.8,
+    "images": [
+      "/images/venue09.svg"
+    ],
+    "tags": [
+      "weddings",
+      "destination"
+    ],
+    "short_description": "Beautiful venue suitable for large scale ceremonies with modern amenities.",
+    "packages": [
+      {
+        "name": "Basic",
+        "price": 95000
+      },
+      {
+        "name": "Premium",
+        "price": 145000
+      }
+    ],
+    "availability": {
+      "2025": "open"
+    }
+  },
+  {
+    "id": "v010",
+    "type": "venue",
+    "name": "Moonlight Manor",
+    "state": "Gujarat",
+    "city": "Ahmedabad",
+    "capacity": 450,
+    "price_per_day": 350000,
+    "rating": 4.2,
+    "images": [
+      "/images/venue10.svg"
+    ],
+    "tags": [
+      "weddings",
+      "traditional"
+    ],
+    "short_description": "Beautiful venue suitable for large scale ceremonies with modern amenities.",
+    "packages": [
+      {
+        "name": "Basic",
+        "price": 180000
+      },
+      {
+        "name": "Premium",
+        "price": 350000
+      }
+    ],
+    "availability": {
+      "2025": "open"
+    }
+  },
+  {
+    "id": "v011",
+    "type": "venue",
+    "name": "Azure Retreat",
+    "state": "Kerala",
+    "city": "Kochi",
+    "capacity": 120,
+    "price_per_day": 110000,
+    "rating": 4.4,
+    "images": [
+      "/images/venue11.svg"
+    ],
+    "tags": [
+      "weddings",
+      "traditional"
+    ],
+    "short_description": "Beautiful venue suitable for large scale ceremonies with modern amenities.",
+    "packages": [
+      {
+        "name": "Basic",
+        "price": 90000
+      },
+      {
+        "name": "Premium",
+        "price": 130000
+      }
+    ],
+    "availability": {
+      "2025": "open"
+    }
+  },
+  {
+    "id": "v012",
+    "type": "venue",
+    "name": "Mist Meadows",
+    "state": "Himachal Pradesh",
+    "city": "Shimla",
+    "capacity": 180,
+    "price_per_day": 130000,
+    "rating": 4.5,
+    "images": [
+      "/images/venue12.svg"
+    ],
+    "tags": [
+      "weddings",
+      "destination"
+    ],
+    "short_description": "Beautiful venue suitable for large scale ceremonies with modern amenities.",
+    "packages": [
+      {
+        "name": "Basic",
+        "price": 100000
+      },
+      {
+        "name": "Premium",
+        "price": 150000
+      }
+    ],
+    "availability": {
+      "2025": "open"
+    }
+  }
+]
